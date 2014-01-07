@@ -1,4 +1,4 @@
-chat-window
-===========
+chatWindow
+==========
 
-Simple Chat using Node.js
+chatWindow
