@@ -1,8 +1,3 @@
-chatWindow
+Chat Messanger developed with Nodejs
 ==========
 
-chatWindow
-
-How to run
-==========
-node index.js
