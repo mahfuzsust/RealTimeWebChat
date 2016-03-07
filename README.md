@@ -1,3 +1,3 @@
-Chat Messanger developed with Nodejs
+Real time web chat
 ====================================
 
